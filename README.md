@@ -15,3 +15,5 @@ Follow the instructions provided in the comments within the files.
 Each time the TouchDesigner file is opened, locate MediaPipe TouchDesigner.toe from the downloaded release folder, and re-copy the missing MediaPipe and hand_tracking2 components into the project.
 <img width="825" height="491" alt="截屏2026-05-01 17 07 17" src="https://github.com/user-attachments/assets/0dd02777-b5a9-4e10-8804-b62eafd61470" />
 <img width="898" height="546" alt="截屏2026-05-01 17 06 31" src="https://github.com/user-attachments/assets/726f9b05-1c0d-44c8-a008-4ea36da7e537" />
+# Video Link
+https://vimeo.com/1188395826?share=copy&fl=sv&fe=ci
